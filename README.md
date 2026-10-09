@@ -3,7 +3,7 @@
 <br><br>
 <pre>
    💼 AA @ BC • CS & Business Student • Self-Taught Dev
-   ✈️ Top-tier university transfer for CS & Eco
+   ✈️ Top-tier university transfer for CS & Eco (Fall '28)
    🛠️ Web tools & interactive platforms | HTML • CSS • JavaScript
    📖 Focusing Software architecture • Distributed systems
 </pre>
