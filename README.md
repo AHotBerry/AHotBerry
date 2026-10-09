@@ -6,6 +6,7 @@
    ✈️ Top-tier university transfer for CS & Eco (Fall '28)
    🛠️ Web tools & interactive platforms | HTML • CSS • JavaScript
    📖 Focusing Software architecture • Distributed systems
+   🤖 Hand-coded foundations • AI-assisted vibe coding
 </pre>
 <br>
 <br><br>
