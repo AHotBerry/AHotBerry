@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.donmai.us/sample/8a/32/__original_drawn_by_bashira0777__sample-8a32600b278ac08ce354b74cedce4875.jpg" width="25%" align="right"/>
+<img src="https://finalweapon.net/wp-content/uploads/2025/04/Chill-with-You-Lo-Fi-Story.webp" width="40%" align="right"/>
 <br><br>
 <pre>
    💼 AA @ BC • CS & Business Student • Self-Taught Dev
